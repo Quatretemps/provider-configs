@@ -481,8 +481,12 @@
         "name": "a5000",
         "interface": "PCIe",
         "memory_size": "24Gi"
+      },
+      "1db6": {
+        "name": "v100",
+        "interface": "PCIe",
+        "memory_size": "32Gi"
       }
-      
     }
   },
   "1002": {
